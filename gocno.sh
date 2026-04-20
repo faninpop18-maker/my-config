@@ -6,7 +6,7 @@ rm -rf ~/.config/hypr
 rm -rf ~/.config/fastfetch
 rm -rf ~/.config/rofi
 rm -rf ~/.config/kitty
-
+cd "$(dirname "$0")"
 cp -r hypr kitty fastfetch rofi ~/.config/
 awww img k2af87zzsvze1.jpeg
 echo "установка завершена,рекомендуеться рестарт системы."
