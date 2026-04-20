@@ -16,7 +16,7 @@
 
  3. open script gocno.sh to install hyprland dotfiles
 
-**fot zsh theme:**
+**for zsh theme:**
 
 1. in directory zsh scripts open script zshautoconfig.sh 
 
