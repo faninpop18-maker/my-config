@@ -1,4 +1,7 @@
 # my-config
+
+**СКОРО +КОНФИГ ZSH**
+
 **ok**
 its just a dotfiles for hyprland
 yes...
