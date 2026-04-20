@@ -9,4 +9,6 @@ rm -rf ~/.config/kitty
 cd "$(dirname "$0")"
 cp -r hypr kitty fastfetch rofi ~/.config/
 awww img k2af87zzsvze1.jpeg
-echo "установка завершена,рекомендуеться рестарт системы."
+echo "установка завершена,рестарт системы."
+sleep 2
+sudo reboot
