@@ -5,7 +5,7 @@ sudo pacman -Syu
 sudo pacman -S --noconfirm hyprland uwsm waybar awww fastfetch \
 ttf-jetbrains-mono-nerd pavucontrol kitty rofi \
 pipewire pipewire-pulse pipewire-jack \
-wireplumber pipewire-alsa hyprshot nerd-fonts zsh swaync
+wireplumber pipewire-alsa hyprshot nerd-fonts swaync
 rm -rf ~/.config/hypr
 rm -rf ~/.config/fastfetch
 rm -rf ~/.config/rofi
