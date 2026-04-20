@@ -13,7 +13,7 @@ rm -rf ~/.config/rofi
 rm -rf ~/.config/kitty
 
 cp -r hypr kitty fastfetch rofi ~/.config/
-awww img k2af87zzsvze1.jpeg
+swww img k2af87zzsvze1.jpeg
 
 echo "Установка завершена, рестарт системы."
 sleep 2
