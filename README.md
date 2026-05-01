@@ -22,6 +22,8 @@
 
 2. open script zshtheme.sh
 
+3. configure your zsh with p10k configure
+
 
 
 
