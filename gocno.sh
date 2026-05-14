@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 cd "$(dirname "$0")"
-sudo pacman -Syu
+sudo pacman -Syyu
 sudo pacman -S --noconfirm hyprland uwsm waybar awww fastfetch brightnessctl \
 ttf-jetbrains-mono-nerd pavucontrol kitty rofi noto-fonts noto-fonts-emoji \
 pipewire pipewire-pulse pipewire-jack pipewire-alsa \
