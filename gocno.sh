@@ -10,7 +10,8 @@ rm -rf ~/.config/hypr
 rm -rf ~/.config/fastfetch
 rm -rf ~/.config/rofi
 rm -rf ~/.config/kitty
-cp -r hypr kitty fastfetch rofi ~/.config/
+rm -rf ~/.config/waybar
+cp -r hypr kitty fastfetch rofi waybar ~/.config/
 echo "поставить обои - awww img (путь до обоев)"
 sleep 2
 echo "Установка завершена, рестарт системы."
