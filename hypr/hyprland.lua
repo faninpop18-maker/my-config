@@ -52,7 +52,7 @@ local menu        = "rofi -show drun"
 --
 hl.on("hyprland.start", function ()
    hl.exec_cmd("nm-applet")
-   hl.exec_cmd("waybar & swaync & /usr/bin/gentoo-pipewire-launcher & awww-daemon")
+   hl.exec_cmd("waybar & swaync & awww-daemon")
  end)
 
 
