@@ -11,8 +11,8 @@
         "cpu"
     ],
     "modules-center": [
-        "hyprland/window",
-        "clock"
+        "clock",
+        "hyprland/window"
     ],
     "modules-right": [
         "mpd",
