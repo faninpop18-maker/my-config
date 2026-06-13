@@ -1,6 +1,8 @@
 # my-config
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f84d20dd-9e1a-4d9b-871f-5b4da9aa86a7" />
 ( support fot gentoo? )
+
+
 **(ALL SCRIPTS NEED OPEN IN TERMINAL)**
 
 **dotfiles for hyprland and automated scripts to install it.**
