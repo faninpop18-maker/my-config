@@ -1,5 +1,11 @@
 # my-config
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f84d20dd-9e1a-4d9b-871f-5b4da9aa86a7" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8d7cb24-e776-462c-bd03-cf9feadb27b0" />
+
+
+
 ( support fot gentoo? )
 
 
