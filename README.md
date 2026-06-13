@@ -3,6 +3,7 @@
 ( support fot gentoo? )
 
 
+
 **(ALL SCRIPTS NEED OPEN IN TERMINAL)**
 
 **dotfiles for hyprland and automated scripts to install it.**
